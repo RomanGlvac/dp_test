@@ -1,0 +1,1 @@
+Toto je text zadania 1 v jazyku Python.
